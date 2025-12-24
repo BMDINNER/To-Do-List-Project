@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./style.css">
+  <script src="./script.js" defer></script>
+  <title>Todo_MyVersion</title>
+</head>
+<body>
+  <section class="js-todo-main todo-main">
+    <h2>Todo-List</h2>
+    <div class="input-container">
+      <input 
+      type="text" 
+      class="input-field" 
+      id="todoInput"
+      placeholder="Write a Task">
+
+      <button class="add-button
+      js-add-button">
+      Add A Task!
+      </button>
+
+    </div>
+    <ul class="scroll">
+      <li id="listed-task"></li>
+    </ul>
+    <hr class="counter" />
+    <div class="counter-container js-counter-container">
+      <p> <span id="todo-count">0</span> items in total
+      </p>
+      <button id="deleteButton">Delete All Tasks</button>
+    </div>
+  </section>
+
+  <footer>
+    <div class="footer-container js-footer-container">
+      <p class="made-by js-made-by">Made By</p>
+      <p class="author js-author">Wol Doe</p>
+    </div>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,89 @@
+{
+  "todos": [
+    {
+      "id": "7ff6",
+      "text": "Login page",
+      "disabled": false
+    },
+    {
+      "id": "f13f",
+      "text": "Storing credentials on backend",
+      "disabled": false
+    },
+    {
+      "id": "2244",
+      "text": "Set up the \"enter as guest\" button",
+      "disabled": false
+    },
+    {
+      "id": "afab",
+      "text": "Redirect to recipe page or type \"Wrong user credentials, tryagain\"",
+      "disabled": false
+    },
+    {
+      "id": "8124",
+      "text": "Recipe Page: Search bar on top, recipe and image on bottom",
+      "disabled": false
+    },
+    {
+      "id": "97d2",
+      "text": "Set up the Search bar, as well as \"add recipe button\" for logged in users",
+      "disabled": false
+    },
+    {
+      "id": "edf6",
+      "text": "If user is not logged in, dont show up the add the recipe button",
+      "disabled": false
+    },
+    {
+      "id": "2e89",
+      "text": "as well as download recipe as pdf button",
+      "disabled": false
+    },
+    {
+      "id": "b3ca",
+      "text": "Storing up recipes on backend",
+      "disabled": false
+    },
+    {
+      "id": "e51f",
+      "text": "Possibly store on mongoDB",
+      "disabled": false
+    },
+    {
+      "id": "8c6c",
+      "text": "or Set the system up on a file system",
+      "disabled": false
+    },
+    {
+      "id": "b87f",
+      "text": "Maybe some quality of life stuff like scrolling up button on bottom rright",
+      "disabled": false
+    },
+    {
+      "id": "4752",
+      "text": "Try adding update and delete recipe buttons for users",
+      "disabled": false
+    },
+    {
+      "id": "5da0",
+      "text": "mongoDB version after project is done, set on file system",
+      "disabled": false
+    },
+    {
+      "id": "0499",
+      "text": "Search bar will be related to the recipes, so it can autocomplete",
+      "disabled": false
+    },
+    {
+      "id": "8615",
+      "text": "Show suggestions when clicked on search bar",
+      "disabled": false
+    },
+    {
+      "id": "29b9",
+      "text": "Learn express js as well",
+      "disabled": false
+    }
+  ]
+}

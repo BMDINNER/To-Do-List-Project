@@ -1,0 +1,17 @@
+# Create .gitignore with common exclusions
+cat > .gitignore << 'EOF'
+# OS generated files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and databases
+*.log
+*.sqlite
+EOF
